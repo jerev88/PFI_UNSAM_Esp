@@ -1,0 +1,149 @@
+\begin{thebibliography}{23}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Monsalve(2016)]{PosterPoc2}
+M.~Mass M. Roberti G. Longinotti D. Ricalde J. Marinoni A. Medrano G. Giménez
+  L. Fraigi C. Moina F. Mazzella D. Díaz A. Chobandindegui G. Ybarra~L.
+  Monsalve.
+\newblock Industrial scale production of disposable cartridges for biosensor
+  platform.
+\newblock In \emph{Smart System Integration - Internationational Conference and
+  Exhibition}, April 2016.
+
+\bibitem[Areny(2003)]{PallasAreny}
+Ramón~Pallas Areny.
+\newblock \emph{Sensores y acondicionadores de señal}.
+\newblock Marcombo, 4 edition, 2003.
+
+\bibitem[Polenta(2016)]{Hector1}
+Ing.~Héctor Polenta.
+\newblock \emph{Introducción a sensores, incerteza y expresión de
+  resultados}, chapter~1, page~2.
+\newblock Ing. Héctor Polenta, 2016.
+\newblock Clases teóricas de asignatura "Sensores, acondicionamiento de
+  señales y adquisicion de datos".
+
+\bibitem[Eggins(2002)]{Eggins}
+Brian~R. Eggins.
+\newblock \emph{Chemical Sensors and Biosensors}.
+\newblock John Wiley and Sons Ltd., 1 edition, 2002.
+
+\bibitem[Fraigi(2019)]{Lili1}
+Dra.~Liliana Fraigi.
+\newblock \emph{Biosensores}, chapter~1, page~2.
+\newblock Dra. Liliana Fraigi, 2019.
+\newblock Clase teórica sobre biosensores.
+
+\bibitem[Fuj(2010)]{DimatixUM}
+\emph{Dimatix Materials Printer DMP-2800 Series User Manual}.
+\newblock Fujifilm Dimatix, 4 edition, Enero 2010.
+
+\bibitem[Ltd.(2017)]{DrycureAu}
+C-INK~Co. Ltd.
+\newblock Drycure au-jb 1010b.
+\newblock Data sheet, C-INK Co. Ltd., 2017.
+
+\bibitem[MicroChem(2007)]{PriElexSU8}
+MicroChem.
+\newblock Xp prielex su-8.
+\newblock Process guidelines, MicroChem, 2007.
+\newblock Rev. 3.
+
+\bibitem[Sabic(2008)]{Valox}
+Sabic.
+\newblock Valox fr1 film.
+\newblock Product datasheet, Sabic Innovative Plastics, 2008.
+
+\bibitem[Giménez(2018)]{TesisGG}
+Gustavo Giménez.
+\newblock \emph{Fabricación y caracterización de arreglos de electrodos
+  recubiertos con películas delgadas mesoporosas de óxido de silicio y
+  óxidos mixtos de silicio y circonio}.
+\newblock PhD thesis, Universidad de Buenos Aires, 2018.
+
+\bibitem[Libre(2019)]{Inkscape}
+Software Libre.
+\newblock Inkscape.
+\newblock \url{www.inkscape.org}, 2019.
+\newblock version 0.92.4.
+
+\bibitem[Lide(2009)]{Resistividad}
+David~R. Lide.
+\newblock \emph{Handbook of Chemistry and Physics}.
+\newblock CRC Press Inc., 90 edition, 2009.
+\newblock p. 2804.
+
+\bibitem[de~Prototipado Microelectrónico~y
+  Electrónica~Impresa(2019)]{caracdimen}
+Depto. de~Prototipado Microelectrónico~y Electrónica~Impresa.
+\newblock Caracterización de espesor y rugosidad.
+\newblock Technical report, Centro de Micro y Nanoelectrónica del
+  Bicentenario. Instituto Nacional de Tecnología Industrial, 2019.
+
+\bibitem[of~Pennsylvania(2014)]{UPenn}
+University of~Pennsylvania.
+\newblock Dimatix standard operating procedure.
+\newblock Technical report, University of Pennsylvania, 2014.
+
+\bibitem[Herrera-Fierro(2016)]{UMic}
+Pilar Herrera-Fierro.
+\newblock Dimatix dmp-2831 inkjet printer standard operating procedure.
+\newblock Technical report, Lurie Nanofabrication Facility - University of
+  Michigan, 2016.
+
+\bibitem[Banica(2012)]{Banica}
+Florinel-Gabriel Banica.
+\newblock \emph{Chemical Sensors and Biosensors: Fundamentals and
+  Applications}.
+\newblock John Wiley and Sons Ltd., 1 edition, 2012.
+
+\bibitem[Prudenziati(2002)]{Prudenziati}
+Maria Prudenziati.
+\newblock \emph{Printed Films: Material science and applications in sensors,
+  electronics and photonics}.
+\newblock John Wiley and Sons Ltd., 1 edition, 2002.
+
+\bibitem[Dorothee~Grieshaber and Reimhult(2008)]{Voros}
+Janos~Voros Dorothee~Grieshaber, Robert~MacKenzie and Erik Reimhult.
+\newblock Electrochemical biosensors - sensor principles and architectures.
+\newblock \emph{Sensors}, 8:\penalty0 1400--1458, March 2008.
+
+\bibitem[Comerci(2016)]{Poc}
+M.~Cortina L. J. Melli M. Roberti M. Mass G. Longinotti S. Tropea P. Lloret D.
+  Rey Serantes F. Salomón M. Lloret A. Caillava S. Restuccia J. Altcheh C.
+  Buscaglia L. Malatto J. Ugalde L. Fraigi C. Moina G. Ybarra A. Ciocchini~D.
+  Comerci.
+\newblock Electrochemical magnetic microbeads-based biosensor for point-of-care
+  serodiagnosis of infectious diseases.
+\newblock \emph{Biosensors and Bioelectronic}, 2016.
+
+\bibitem[Fraigi(2016)]{PosterPoc1}
+M.~Mass M. Roberti F. Salomón S. Tropea M. Lloret D. Brengi L. Malatto~L.
+  Fraigi.
+\newblock Development of a point-of-care platform for diagnosis of infectious
+  diseases.
+\newblock In \emph{Smart System Integration - Internationational Conference and
+  Exhibition}, March 2016.
+
+\bibitem[Dimatix(2015)]{DMPDatasheet}
+Fujifilm Dimatix.
+\newblock Dimatix material printer dmp-2850 datasheet.
+\newblock Technical report, Fujifilm Dimatix, 2015.
+
+\bibitem[Amal~Abbas(2017)]{AgParticlesDimatix1}
+Inayat~Bajwa Amal~Abbas.
+\newblock Inkjet printing of ag nanoparticles using dimatix inkjet printer, no
+  1.
+\newblock \emph{University of Pennsylvania}, January 2017.
+
+\bibitem[Chuang(2017)]{AgParticlesDimatix2}
+Ming~Yuan Chuang.
+\newblock Inkjet printing of ag nanoparticles using dimatix inkjet printer, no
+  2.
+\newblock \emph{University of Pennsylvania}, May 2017.
+
+\end{thebibliography}

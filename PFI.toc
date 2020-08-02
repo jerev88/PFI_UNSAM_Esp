@@ -1,0 +1,47 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{Agradecimientos}{3}{section*.1}%
+\contentsline {chapter}{Anteproyecto}{5}{section*.3}%
+\contentsline {chapter}{\numberline {1}Objetivos}{19}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Objetivos Generales}{19}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Objetivos Espec\'ificos}{20}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Marco Te\'orico}{22}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Sensores, transductores y biosensores}{22}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Electr\'onica Impresa Funcional}{25}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Impresora tipo \textit {Inkjet}}{27}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Tinta de nanopartículas de oro}{29}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Tinta dieléctrica fotodefinible SU-8}{30}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Sustrato \textit {Valox}}{31}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}T\'ecnicas de Caracterizaci\'on}{32}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Caracterizaci\'on El\'ectrica}{32}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Caracterizaci\'on \'Optica/Dimensional}{33}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Caracterizaci\'on Electroqu\'imica}{34}{subsection.2.3.3}%
+\contentsline {chapter}{\numberline {3}Desarrollo Experimental}{37}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Preparación de patrones de imágenes}{37}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Mediciones previas}{37}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Diseños de patrones de impresión}{39}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Puesta a punto y calibraci\'on de impresora}{40}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Impresiones}{46}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Caracterizaciones}{52}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Caracterización eléctrica}{52}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Caracterización dimensional}{52}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Caracterización electroquímica}{54}{subsection.3.4.3}%
+\contentsline {section}{\numberline {3.5}Tinta dieléctrica fotorresistente}{57}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Diseño}{57}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Preparación de cartucho de tinta}{58}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Puesta a punto y calibraci\'on de impresora}{59}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Impresiones}{60}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}Caracterizaciones}{62}{subsection.3.5.5}%
+\contentsline {chapter}{\numberline {4}Mediciones y Resultados}{63}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Caracterización eléctrica}{63}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Caracterización dimensional}{64}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Caracterización electroquímica}{66}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Conclusiones}{71}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Conclusiones del trabajo realizado}{71}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Trabajo futuro}{72}{section.5.2}%
+\contentsline {chapter}{\numberline {A}Configuración de impresora}{73}{appendix.Alph1}%
+\contentsline {section}{\numberline {A.1}Preparación de cartucho de tinta}{75}{section.Alph1.1}%
+\contentsline {section}{\numberline {A.2}Sujeción de sustrato y configuración de platina}{80}{section.Alph1.2}%
+\contentsline {chapter}{\numberline {B}Proceso de cierre del proyecto}{82}{appendix.Alph2}%
+\contentsline {section}{\numberline {B.1}Entregables y espectativas}{82}{section.Alph2.1}%
+\contentsline {section}{\numberline {B.2}Lecciones aprendidas}{82}{section.Alph2.2}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{84}{section*.7}%
